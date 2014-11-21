@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>kitty.portable</id>
+    <version>0.63.1.5</version>
+    <title>KiTTY (Portable)</title>
+    <authors>Cyd</authors>
+    <owners>Rui Coelho</owners>
+    <licenseUrl>http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html</licenseUrl>
+    <projectUrl>http://www.9bis.net/kitty</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>KiTTY is a fork from version 0.63 of PuTTY, the best telnet / SSH client in the world.</description>
+    <summary>PuTTY is a free implementation of Telnet and SSH for Windows and Unix platforms, along with an xterm terminal emulator.</summary>
+    <tags>KiTTY PuTTY telnet ssh</tags>
+  </metadata>
+</package>
