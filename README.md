@@ -21,6 +21,7 @@ Successfully created package 'kitty.portable.<version>.nupkg'.
 $ cinst kitty.portable -source %cd%
 
 # pushing
-$ cpush kitty.portable.nupkg
+$ NuGet setApiKey <APIKEY> -Source https://chocolatey.org/
+$ cpush kitty.portable.<version>.nupkg
 ```
 See [Creating Chocolatey Packages](https://github.com/chocolatey/chocolatey/wiki/CreatePackages#is-there-a-simpler-way-of-creating-packages).
